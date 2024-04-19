@@ -1,0 +1,17 @@
+{
+  "name": "a3r6todo-app",
+  "version": "1.0.0",
+  "description": "TO DO LIST",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amna rehmani",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
